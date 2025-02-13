@@ -1,4 +1,4 @@
-package classbasics;
+// package classbasics;
 
 class Shape {
     public void area() {
